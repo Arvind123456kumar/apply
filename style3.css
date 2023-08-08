@@ -1,0 +1,30 @@
+header{
+    background: yellow;
+    display: flex;
+}
+span.job{
+  font-size: 30px;
+  color: solid rgb(9, 81, 224);
+}
+input{
+  height: 30px; 
+  margin-left: 50px;
+border: solid black;
+border-radius: 5px;
+}
+textarea{
+  height: 50px;
+  width: 200px;
+}
+button{
+  margin-top: 25px;
+  margin-left: 420px;
+  background: blue;
+}
+th{
+  align-items: left;
+}
+table{
+border: solid red;
+background: antiquewhite;
+}
